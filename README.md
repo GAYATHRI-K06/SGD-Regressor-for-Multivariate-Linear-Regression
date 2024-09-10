@@ -95,7 +95,7 @@ Predictions:
 ```
 
 ## Output:
-mean
+
 ![image](https://github.com/user-attachments/assets/ec45c748-c810-43c5-a338-409e7f95add9)
 
 
